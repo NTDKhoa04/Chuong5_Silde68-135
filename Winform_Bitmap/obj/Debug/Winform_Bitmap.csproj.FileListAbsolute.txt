@@ -1,0 +1,10 @@
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Bitmap\bin\Debug\Winform_Bitmap.exe.config
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Bitmap\bin\Debug\Winform_Bitmap.exe
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Bitmap\bin\Debug\Winform_Bitmap.pdb
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Bitmap\obj\Debug\Winform_Bitmap.csproj.AssemblyReference.cache
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Bitmap\obj\Debug\Winform_Bitmap.Form1.resources
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Bitmap\obj\Debug\Winform_Bitmap.Properties.Resources.resources
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Bitmap\obj\Debug\Winform_Bitmap.csproj.GenerateResource.cache
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Bitmap\obj\Debug\Winform_Bitmap.csproj.CoreCompileInputs.cache
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Bitmap\obj\Debug\Winform_Bitmap.exe
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Bitmap\obj\Debug\Winform_Bitmap.pdb

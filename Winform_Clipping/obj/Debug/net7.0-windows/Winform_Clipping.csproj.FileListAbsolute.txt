@@ -1,0 +1,16 @@
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Clipping\bin\Debug\net7.0-windows\Winform_Clipping.exe
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Clipping\bin\Debug\net7.0-windows\Winform_Clipping.deps.json
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Clipping\bin\Debug\net7.0-windows\Winform_Clipping.runtimeconfig.json
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Clipping\bin\Debug\net7.0-windows\Winform_Clipping.dll
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Clipping\bin\Debug\net7.0-windows\Winform_Clipping.pdb
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Clipping\obj\Debug\net7.0-windows\Winform_Clipping.Form1.resources
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Clipping\obj\Debug\net7.0-windows\Winform_Clipping.csproj.GenerateResource.cache
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Clipping\obj\Debug\net7.0-windows\Winform_Clipping.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Clipping\obj\Debug\net7.0-windows\Winform_Clipping.AssemblyInfoInputs.cache
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Clipping\obj\Debug\net7.0-windows\Winform_Clipping.AssemblyInfo.cs
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Clipping\obj\Debug\net7.0-windows\Winform_Clipping.csproj.CoreCompileInputs.cache
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Clipping\obj\Debug\net7.0-windows\Winform_Clipping.dll
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Clipping\obj\Debug\net7.0-windows\refint\Winform_Clipping.dll
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Clipping\obj\Debug\net7.0-windows\Winform_Clipping.pdb
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Clipping\obj\Debug\net7.0-windows\Winform_Clipping.genruntimeconfig.cache
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Clipping\obj\Debug\net7.0-windows\ref\Winform_Clipping.dll

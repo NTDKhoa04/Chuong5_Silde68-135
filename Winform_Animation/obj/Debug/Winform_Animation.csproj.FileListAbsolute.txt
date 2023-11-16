@@ -1,0 +1,10 @@
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Animation\bin\Debug\Winform_Animation.exe.config
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Animation\bin\Debug\Winform_Animation.exe
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Animation\bin\Debug\Winform_Animation.pdb
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Animation\obj\Debug\Winform_Animation.csproj.AssemblyReference.cache
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Animation\obj\Debug\Winform_Animation.Form1.resources
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Animation\obj\Debug\Winform_Animation.Properties.Resources.resources
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Animation\obj\Debug\Winform_Animation.csproj.GenerateResource.cache
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Animation\obj\Debug\Winform_Animation.csproj.CoreCompileInputs.cache
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Animation\obj\Debug\Winform_Animation.exe
+D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Animation\obj\Debug\Winform_Animation.pdb
