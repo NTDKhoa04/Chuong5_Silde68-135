@@ -8,3 +8,13 @@ D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Image\obj\Debug\
 D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Image\obj\Debug\Winform_Image.csproj.CoreCompileInputs.cache
 D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Image\obj\Debug\Winform_Image1.exe
 D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Image\obj\Debug\Winform_Image1.pdb
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Image\bin\Debug\Winform_Image1.exe.config
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Image\bin\Debug\Winform_Image1.exe
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Image\bin\Debug\Winform_Image1.pdb
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Image\obj\Debug\Winform_Image.csproj.AssemblyReference.cache
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Image\obj\Debug\Winform_Image1.Form1.resources
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Image\obj\Debug\Winform_Image1.Properties.Resources.resources
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Image\obj\Debug\Winform_Image.csproj.GenerateResource.cache
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Image\obj\Debug\Winform_Image.csproj.CoreCompileInputs.cache
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Image\obj\Debug\Winform_Image1.exe
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Image\obj\Debug\Winform_Image1.pdb

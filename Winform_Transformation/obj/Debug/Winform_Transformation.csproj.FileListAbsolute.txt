@@ -7,3 +7,12 @@ D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Transformation\o
 D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Transformation\obj\Debug\Winform_Transformation.csproj.CoreCompileInputs.cache
 D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Transformation\obj\Debug\Winform_Transformation.exe
 D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Transformation\obj\Debug\Winform_Transformation.pdb
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Transformation\bin\Debug\Winform_Transformation.exe.config
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Transformation\bin\Debug\Winform_Transformation.exe
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Transformation\bin\Debug\Winform_Transformation.pdb
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Transformation\obj\Debug\Winform_Transformation.csproj.AssemblyReference.cache
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Transformation\obj\Debug\Winform_Transformation.Properties.Resources.resources
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Transformation\obj\Debug\Winform_Transformation.csproj.GenerateResource.cache
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Transformation\obj\Debug\Winform_Transformation.csproj.CoreCompileInputs.cache
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Transformation\obj\Debug\Winform_Transformation.exe
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Transformation\obj\Debug\Winform_Transformation.pdb

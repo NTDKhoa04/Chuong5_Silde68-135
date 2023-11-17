@@ -8,3 +8,13 @@ D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_SoundPlayer\obj\
 D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_SoundPlayer\obj\Debug\Winform_SoundPlayer.exe
 D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_SoundPlayer\obj\Debug\Winform_SoundPlayer.pdb
 D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_SoundPlayer\obj\Debug\Winform_SoundPlayer.Form1.resources
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_SoundPlayer\bin\Debug\Winform_SoundPlayer.exe.config
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_SoundPlayer\bin\Debug\Winform_SoundPlayer.exe
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_SoundPlayer\bin\Debug\Winform_SoundPlayer.pdb
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_SoundPlayer\obj\Debug\Winform_SoundPlayer.csproj.AssemblyReference.cache
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_SoundPlayer\obj\Debug\Winform_SoundPlayer.Form1.resources
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_SoundPlayer\obj\Debug\Winform_SoundPlayer.Properties.Resources.resources
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_SoundPlayer\obj\Debug\Winform_SoundPlayer.csproj.GenerateResource.cache
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_SoundPlayer\obj\Debug\Winform_SoundPlayer.csproj.CoreCompileInputs.cache
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_SoundPlayer\obj\Debug\Winform_SoundPlayer.exe
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_SoundPlayer\obj\Debug\Winform_SoundPlayer.pdb

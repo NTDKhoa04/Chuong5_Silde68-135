@@ -7,3 +7,12 @@ D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Sprites\obj\Debu
 D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Sprites\obj\Debug\Winform_Sprites.csproj.CoreCompileInputs.cache
 D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Sprites\obj\Debug\Winform_Sprites.exe
 D:\uni\LTTQ\WpfApp4\Chuong4_NguyenThaiDangKhoa_22520679\Winform_Sprites\obj\Debug\Winform_Sprites.pdb
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Sprites\bin\Debug\Winform_Sprites.exe.config
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Sprites\bin\Debug\Winform_Sprites.exe
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Sprites\bin\Debug\Winform_Sprites.pdb
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Sprites\obj\Debug\Winform_Sprites.csproj.AssemblyReference.cache
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Sprites\obj\Debug\Winform_Sprites.Properties.Resources.resources
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Sprites\obj\Debug\Winform_Sprites.csproj.GenerateResource.cache
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Sprites\obj\Debug\Winform_Sprites.csproj.CoreCompileInputs.cache
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Sprites\obj\Debug\Winform_Sprites.exe
+D:\uni\LTTQ\WpfApp4\Chuong5_NguyenThaiDangKhoa_22520679\Winform_Sprites\obj\Debug\Winform_Sprites.pdb

@@ -1,0 +1,9 @@
+C:\Users\mannv\Desktop\LTTQ\Chuong4_TranPhuocLoc_22520797\WinForm_DrawRectangle\bin\Debug\WinForm_DrawRectangle.exe.config
+C:\Users\mannv\Desktop\LTTQ\Chuong4_TranPhuocLoc_22520797\WinForm_DrawRectangle\bin\Debug\WinForm_DrawRectangle.exe
+C:\Users\mannv\Desktop\LTTQ\Chuong4_TranPhuocLoc_22520797\WinForm_DrawRectangle\bin\Debug\WinForm_DrawRectangle.pdb
+C:\Users\mannv\Desktop\LTTQ\Chuong4_TranPhuocLoc_22520797\WinForm_DrawRectangle\obj\Debug\WinForm_DrawRectangle.csproj.AssemblyReference.cache
+C:\Users\mannv\Desktop\LTTQ\Chuong4_TranPhuocLoc_22520797\WinForm_DrawRectangle\obj\Debug\WinForm_DrawRectangle.Properties.Resources.resources
+C:\Users\mannv\Desktop\LTTQ\Chuong4_TranPhuocLoc_22520797\WinForm_DrawRectangle\obj\Debug\WinForm_DrawRectangle.csproj.GenerateResource.cache
+C:\Users\mannv\Desktop\LTTQ\Chuong4_TranPhuocLoc_22520797\WinForm_DrawRectangle\obj\Debug\WinForm_DrawRectangle.csproj.CoreCompileInputs.cache
+C:\Users\mannv\Desktop\LTTQ\Chuong4_TranPhuocLoc_22520797\WinForm_DrawRectangle\obj\Debug\WinForm_DrawRectangle.exe
+C:\Users\mannv\Desktop\LTTQ\Chuong4_TranPhuocLoc_22520797\WinForm_DrawRectangle\obj\Debug\WinForm_DrawRectangle.pdb
